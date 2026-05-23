@@ -1,0 +1,4 @@
+datasets/
+*.bak
+*.log
+*.tmp
