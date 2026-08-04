@@ -2,7 +2,7 @@
 
 EDA – Database Exploration
 =========================================================
-Purpose:
+Script Purpose:
     Explores the structure of the DataWarehouse database by listing all tables
     across schemas and inspecting column-level metadata for individual tables.
     This is typically the first step in EDA — understanding what exists before
